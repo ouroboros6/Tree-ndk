@@ -1,0 +1,6 @@
+id=tree-ndk
+name=Tree-ndk
+version=1.0.2
+versionCode=102
+author=Avraham Freeman
+description=Multi-arch systemless `tree` binary for directory listings. Supports -L, -a, -v, and -h options. Written in C and compiled with Android NDK.
