@@ -1,7 +1,10 @@
 # 🌲 Tree-ndk
 
 Tree-ndk is a lightweight multi-architecture `tree`
-binary for Android, installable as a Magisk Module.
+binary for Android, installable as a Magisk Module. It is installed systemlessly, and is avalable in $PATH due to magisks overlayfs feature. It is accesable for use through adb shell and in android terminal emulators such as termux... (note: use in termux only becomes available once su is called and you are in a system shell.)
+
+## Source code for building can be found at:
+https://github.com/ouroboros6/tree-ndk-source-code.git
 
 ## 🛠 Features
 
